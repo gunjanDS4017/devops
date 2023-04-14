@@ -459,7 +459,7 @@
                         </div>
 
                         <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">The easiest way for teams to develop & test on Kubernetes is with Telepresence for Docker. Get started today by connecting your local development environment to a remote Kubernetes cluster.
+                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">The easiest way 
                             </div>
                         </div>
                     </div>
