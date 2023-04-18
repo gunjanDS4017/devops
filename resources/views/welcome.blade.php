@@ -459,7 +459,7 @@
                         </div>
 
                         <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">The 10th commit to rename env
+                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">The 11th commit to check vendor folder
                             </div>
                         </div>
                     </div>
