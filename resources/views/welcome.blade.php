@@ -459,7 +459,7 @@
                         </div>
 
                         <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">Trigger Pipeline with email notification</div>
+                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">Trigger Pipeline with email notification with CC</div>
                         </div>
                     </div>
                 </div>
