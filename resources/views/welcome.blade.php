@@ -459,7 +459,7 @@
                         </div>
 
                         <div class="ml-12">
-                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">17th commit - Check Email</div>
+                            <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">18th commit - Check Email</div>
                         </div>
                     </div>
                 </div>
